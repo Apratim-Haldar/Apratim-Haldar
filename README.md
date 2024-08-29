@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hello there, myself Apratim Haldar, an undergrad B.Tech CSE student at IEM, Kolkata. I am a passionate full stack development learner and am also preparing for GATE examination.
+Hello there, myself Apratim Haldar, an undergrad B.Tech CSE student at IEM, Kolkata. I am a passionate full stack development enthusiast.
 
 
 ## 🌐 Socials:
